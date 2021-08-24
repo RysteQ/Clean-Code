@@ -1,7 +1,5 @@
 # Clean Code
 
----
-
 ## Introduction
 
 All of us write code, but what separates an excellent programmer from an average programmer is **clean code**. Computers can run code regardless if it's clean or not, although humans have problems understanding and developing upon badly written code.
@@ -11,8 +9,6 @@ I have been trying since I have first written proper code to write cleaner and c
 I will also include **examples** of badly written code and clean code in the C programming language so you view the difference yourself side by side.
 
 <br>
-
----
 
 ## Table of contents
 
