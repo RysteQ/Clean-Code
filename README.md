@@ -175,7 +175,7 @@ int main(int argc, char** argv) {
 }
 ```
 
-This is the exact same code but with two extra lines to **separate** the code segments, from the start when we check if there is a file name, to the middle when we open / read / close the file, and in the end when we terminate the program. This makes it **far easier** for someone to **understand the structure** of the code.
+This is the exact same code but with two extra lines to **separate** the code segments, from the start when we check if there is a file name, to the middle when we open / read / close the file, and in the end when we terminate the program. This makes it **far easier** for someone to **understand the structure** of the code. One more good practice to follow is using camel case in variable names and function names.
 
 <br>
 
