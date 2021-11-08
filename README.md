@@ -17,8 +17,9 @@ I will also include **examples** of badly written code and clean code in the C p
 3) [What functions should do and not do](#what-functions-should-do-and-not-do)
 4) [Formatting](#formatting)
 5) [Comments](#comments)
-6) [Useful resources](#useful-resources)
-7) [Notes](#notes)
+6) [Camel Case](#camel-case)
+7) [Useful resources](#useful-resources)
+8) [Notes](#notes)
 
 <br>
 
@@ -197,6 +198,40 @@ or edit and during the exit of the program it will save
 or create the following file with the data the user entered
 during the runtime of the program
 */
+```
+
+<br>
+
+### Camel Case
+
+Camel case is really useful because it makes your code easier  to read with basically no real work involved, you just capitalize some letters there and there and that's really it, and this ease is why it's one of the **core basics of writting clean code**. Camel case is mostly *(if not only)* used in two seperate cases, one of them being how you name variable names and the second is naming function names, and they may sound simple and kinda mundane but they **really** do make a difference.
+
+Example:
+
+Badly written code
+
+```C
+int main(int argc, char** argv) {
+    int outputnum = addtwonums(numone, numtwo);
+
+    printf("The result is %i\n", outputnum);
+
+    return 0;
+}
+```
+
+<br>
+
+Well written code
+
+```C
+int main(int argc, char** argv) {
+    int outputNum = addTwoNums(numOne, numTwo);
+
+    printf("The result is %i\n", outputNum);
+
+    return 0;
+}
 ```
 
 <br>
