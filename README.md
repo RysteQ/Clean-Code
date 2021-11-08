@@ -12,14 +12,14 @@ I will also include **examples** of badly written code and clean code in the C p
 
 ## Table of contents
 
-1) [Variable names](#variable-names)
-2) [Function names](#function-names)
-3) [What functions should do and not do](#what-functions-should-do-and-not-do)
-4) [Formatting](#formatting)
-5) [Comments](#comments)
-6) [Camel Case](#camel-case)
-7) [Useful resources](#useful-resources)
-8) [Notes](#notes)
+1) **[Variable names](#variable-names)**
+2) **[Function names](#function-names)**
+3) **[What functions should do and not do](#what-functions-should-do-and-not-do)**
+4) **[Formatting](#formatting)**
+5) **[Comments](#comments)**
+6) **[Camel Case](#camel-case)**
+7) **[Useful resources](#useful-resources)**
+8) **[Notes](#notes)**
 
 <br>
 
