@@ -29,7 +29,11 @@ I will also include **examples** of badly written code and clean code in the C p
 
 One of the most useful rules is writing **proper variable names**. A variable name should indicate what is going to be used in the code without the programmer having to think or look through the entire code to find meaning, this is done by giving it a good name and **descriptive name**, not single-letter names.
 
-Example:
+<br>
+
+**Example:**
+
+<br>
 
 Badly written code
 
@@ -71,7 +75,11 @@ In this example I have written some code to add two numbers and display the resu
 
 Just like variable names, function names should have a **descriptive** name to indicate their **function** to the programmer, either the programmer is you or your co-worker that reads your code for the first time.
 
-Example:
+<br>
+
+**Example:**
+
+<br>
 
 Badly written code
 
@@ -107,7 +115,11 @@ In this example, I have written a simple function that reads and displays the co
 
 It is very tempting to cram pack a function full of functionality but it's not useful in the long run. A function needs to do **one thing and one thing only** which is mentioned in the **name** of the function.
 
-Example:
+<br>
+
+**Example:**
+
+<br>
 
 Badly written code
 
@@ -140,7 +152,11 @@ If the function is about opening a file it should open a file and **return the o
 Formatting your code is very important to make it more understandable and not what I like to call *[spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code#Examples)*.
 There is no clear way to do it but I personally separate the code in segments of code.
 
-Example:
+<br>
+
+**Example:**
+
+<br>
 
 Badly written code
 
@@ -206,7 +222,11 @@ during the runtime of the program
 
 Camel case is really useful because it makes your code easier  to read with basically no real work involved, you just capitalize some letters there and there and that's really it, and this ease is why it's one of the **core basics of writting clean code**. Camel case is mostly *(if not only)* used in two seperate cases, one of them being how you name variable names and the second is naming function names, and they may sound simple and kinda mundane but they **really** do make a difference.
 
-Example:
+<br>
+
+**Example:**
+
+<br>
 
 Badly written code
 
