@@ -35,7 +35,7 @@ One of the most useful rules is writing **proper variable names**. A variable na
 
 <br>
 
-Badly written code
+*Badly written code*
 
 ```C
 int a;
@@ -52,7 +52,7 @@ printf("Result: %i", c);
 
 <br>
 
-Well written code
+*Well written code*
 
 ```C
 int firstNumber;
@@ -81,7 +81,7 @@ Just like variable names, function names should have a **descriptive** name to i
 
 <br>
 
-Badly written code
+*Badly written code*
 
 ```C
 void file(FILE* inputFile) {
@@ -95,7 +95,7 @@ void file(FILE* inputFile) {
 
 <br>
 
-Well written code
+*Well written code*
 
 ```C
 void displayFileContents(FILE* inputFile) {
@@ -121,7 +121,7 @@ It is very tempting to cram pack a function full of functionality but it's not u
 
 <br>
 
-Badly written code
+*Badly written code*
 
 ```C
 void addNums(int firstNum, int secondNum, char* msg) {
@@ -133,7 +133,7 @@ void addNums(int firstNum, int secondNum, char* msg) {
 
 <br>
 
-Well written code
+*Well written code*
 
 ```C
 int addNums(int firstNum, int secondNum) {
@@ -158,7 +158,7 @@ There is no clear way to do it but I personally separate the code in segments of
 
 <br>
 
-Badly written code
+*Badly written code*
 
 ```C
 int main(int argc, char** argv) {
@@ -175,7 +175,7 @@ int main(int argc, char** argv) {
 
 <br>
 
-Well written code
+*Well written code*
 
 ```C
 int main(int argc, char** argv) {
@@ -228,7 +228,7 @@ Camel case is really useful because it makes your code easier  to read with basi
 
 <br>
 
-Badly written code
+*Badly written code*
 
 ```C
 int main(int argc, char** argv) {
@@ -242,7 +242,7 @@ int main(int argc, char** argv) {
 
 <br>
 
-Well written code
+*Well written code*
 
 ```C
 int main(int argc, char** argv) {
